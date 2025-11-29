@@ -1,0 +1,8 @@
+br/com/tisystem/os/App.class
+br/com/tisystem/os/service/OrdemServicoService.class
+br/com/tisystem/os/repository/ClienteRepository.class
+br/com/tisystem/os/model/OrdemServico.class
+br/com/tisystem/os/view/MenuView.class
+br/com/tisystem/os/repository/OrdemServicoRepository.class
+br/com/tisystem/os/service/ClienteService.class
+br/com/tisystem/os/model/Cliente.class

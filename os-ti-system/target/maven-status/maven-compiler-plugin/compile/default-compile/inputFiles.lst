@@ -1,0 +1,8 @@
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/App.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/model/Cliente.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/model/OrdemServico.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/repository/ClienteRepository.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/repository/OrdemServicoRepository.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/service/ClienteService.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/service/OrdemServicoService.java
+/workspaces/os-ti-system/os-ti-system/src/main/java/br/com/tisystem/os/view/MenuView.java
